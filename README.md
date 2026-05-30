@@ -5,7 +5,7 @@ Este repositorio contiene la solución End-to-End para la prueba técnica del ro
 ## 📁 Estructura del Proyecto
 
 * **`PruebaTecnica_DS_DiazCrhistian_20260529.ipynb`**: Notebook principal con el Análisis Exploratorio de Datos (EDA), limpieza, respuesta a preguntas de negocio y desarrollo de modelos de Machine Learning (Regresión y Clasificación) usando `scikit-learn`.
-* **`Informe.pbix`**: Dashboard interactivo en Power BI con el panel ejecutivo de ventas y el monitor de riesgos (Churn).
+* **`Informe.pbix`**: Dashboard interactivo en Power BI con el panel ejecutivo de ventas y el monitor de riesgos.
 * **`MODULO B Propuesta de Solucion.pdf`**: Diagrama de arquitectura de datos, gobierno del dato y roadmap de implementación ágil (6 meses) enfocado en optimizar el stack tecnológico actual.
 
 ## 🛠️ Stack Tecnológico Utilizado
